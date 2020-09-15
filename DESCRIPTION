@@ -1,0 +1,11 @@
+Package: rechordr
+Title: Play or save musical chords
+Version: 0.0.0.9000
+Authors@R: person("Ariel", "Fridman", email = "ariel.fridman93@gmail.com", role = c("aut", "cre"))
+Description: Play or save music
+Imports: audio
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
